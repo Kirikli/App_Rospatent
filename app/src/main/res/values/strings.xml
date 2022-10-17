@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_Rospatent</string>
+    <string name="spisok_patentov">Cамый простой поиск патентов</string>
+    <string name="search_patent">Искать патент</string>
+    <string name="rospatent">Роспатент.</string>
+    <string name="Author">Автор</string>
+    <string name="Name">Название</string>
+    <string name="IPC">МПК</string>
+    <string name="Application_number">Номер заявки</string>
+</resources>
